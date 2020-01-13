@@ -19,4 +19,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void verFormularioAlumno(View view) {
+        startActivity(new Intent(this, formularioalumno.class));
+    }
+
+    public void Salir(View view) {
+        finish();
+    }
 }

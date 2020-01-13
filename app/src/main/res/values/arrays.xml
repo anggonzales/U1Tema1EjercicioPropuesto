@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sexo">
+        <item>Seleccione una opción</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+    <string-array name="grado_instruccion">
+        <item>Seleccione una opción</item>
+        <item>Secundaria completa</item>
+        <item>Secundaria incompleta</item>
+        <item>Superior técnica completa</item>
+        <item>Superior técnica incompleta</item>
+        <item>Universitario completo</item>
+        <item>Universitario incompleta</item>
+        <item>Posgrado</item>
+    </string-array>
+</resources>

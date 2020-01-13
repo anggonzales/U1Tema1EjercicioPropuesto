@@ -23,11 +23,11 @@
             android:text="@string/opcion1"
             android:onClick="verCalculadora" />
 
-        <Button
+        <Button android:id="@+id/button10"
             android:layout_height="wrap_content"
             android:layout_width="match_parent"
             android:text="@string/opcion3"
-            android:onClick="mispinner" />
+            android:onClick="verFormularioAlumno" />
 
         <Button android:id="@+id/button02"
             android:layout_height="wrap_content"
