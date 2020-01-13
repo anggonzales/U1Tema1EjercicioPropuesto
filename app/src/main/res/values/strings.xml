@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">U1Tema1EjercicioPropuesto</string>
     <string name="tituloAplicacion">Ejercicio Propuesto</string>
-    <string name="opcion1">Visualizacion calculadora</string>
+    <string name="opcion1">Calculadora</string>
     <string name="opcion3">Formulario de Alumno</string>
     <string name="opcion2">Enviar de datos a otro formulario</string>
     <string name="dialogo">Funcionalidad Calculadora</string>

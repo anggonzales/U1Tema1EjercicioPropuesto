@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void verCalculadora(View view) {
+    public void Calculadora(View view) {
         startActivity(new Intent(this, Calculadora.class));
     }
 
